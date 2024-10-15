@@ -113,3 +113,7 @@
 897	997	1729022588630689176	/home/jonas/esp/projects/MOTION/build/bootloader/.bin_timestamp	449e5fa6a7517d10
 997	1026	1729022588634022498	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e68b94a56acdd9ab
 997	1026	1729022588634022498	/home/jonas/esp/projects/MOTION/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e68b94a56acdd9ab
+5	35	1729023058635879994	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e68b94a56acdd9ab
+5	35	1729023058635879994	/home/jonas/esp/projects/MOTION/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e68b94a56acdd9ab
+5	36	1729023067799185035	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e68b94a56acdd9ab
+5	36	1729023067799185035	/home/jonas/esp/projects/MOTION/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	e68b94a56acdd9ab
