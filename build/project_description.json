@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "hello_world",
-    "project_version":    "1",
+    "project_version":    "4ab3dca-dirty",
     "project_path":       "/home/jonas/esp/projects/MOTION",
     "idf_path":           "/home/jonas/esp/esp-idf",
     "build_dir":          "/home/jonas/esp/projects/MOTION/build",
