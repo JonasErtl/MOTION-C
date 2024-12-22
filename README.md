@@ -7,6 +7,4 @@ The aim of this project is to build a system which can detect Hand-Movement and 
 ## Progress
 Currently the program can calibrate and read the gyroscope and accelerometer data, and then combine them using a complementary filter algorithm to determine the pitch roll and yaw of the sensor. I might now now try to visualize this. 
 
-# The Gyro Calibration Program
-This program determines the bias that the Gyroscope has. But is still not working for this rewrite.
 
